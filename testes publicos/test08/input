@@ -1,0 +1,2 @@
+exemplo_puzzle(4,P),possibilidades((4,5),P,Poss),writeln(Poss).
+exemplo_puzzle(4,P),possibilidades((1,1),P,Poss),writeln(Poss).

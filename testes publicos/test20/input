@@ -1,0 +1,1 @@
+exemplo_puzzle(2,P1),inspecciona(P1,P2),escreve_puzzle(P2).

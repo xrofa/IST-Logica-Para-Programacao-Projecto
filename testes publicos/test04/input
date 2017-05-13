@@ -1,0 +1,2 @@
+exemplo_puzzle(2,P1),tira_num(5,P1,[(5,1),(5,3),(5,9)],P2),escreve_puzzle(P2).
+exemplo_puzzle(2,P1),tira_num(5,P1,[(4,2),(5,1),(5,2),(6,1)],P2),escreve_puzzle(P2).
