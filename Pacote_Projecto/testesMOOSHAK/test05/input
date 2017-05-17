@@ -1,0 +1,2 @@
+exemplo_puzzle(1,P1),puzzle_muda_propaga(P1,(1,1),[2,4],P2),escreve_puzzle(P2).
+exemplo_puzzle(1,P1),puzzle_muda_propaga(P1,(1,1),[8],P2),escreve_puzzle(P2).

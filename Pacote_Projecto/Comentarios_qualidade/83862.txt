@@ -1,0 +1,47 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+predicados desnecessários : nao_unitaria, unitaria, nao_vazia
+
+
+
+predicado resolve_aux desnecessariamente complicado
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+
+
+
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+

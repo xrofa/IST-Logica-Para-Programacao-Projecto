@@ -1,0 +1,49 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+predicado encontra_solucao e seus auxiliares desnecessariamente complicados
+
+
+
+
+
+
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+
+
+
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+Comentários no meio do código dificultam a leitura
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+predicados desnecessários : 
+
+
+
+listaunitaria(L):-
+
+    length(L,1).
+
+listanunitaria(L):-
+
+    length(L,X),X>1.
+
+listavazia(L):-
+
+    length(L,0).
+
+listanvazia(Cont):-
+
+    length(Cont,X),X>0.
+
+
+
+
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+
+
+
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+exemplo_puzzle(3,P1),inicializa_aux(P1,(1,1),P2),escreve_puzzle(P2).
+exemplo_puzzle(3,P1),inicializa_aux(P1,(4,5),P2),escreve_puzzle(P2).
+exemplo_puzzle(3,P1),inicializa_aux(P1,(1,2),P2),escreve_puzzle(P2).
+exemplo_puzzle(3,P1),inicializa_aux(P1,(6,2),P2),escreve_puzzle(P2).

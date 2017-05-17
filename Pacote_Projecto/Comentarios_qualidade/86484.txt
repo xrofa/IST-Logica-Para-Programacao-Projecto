@@ -1,0 +1,49 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+
+
+
+
+
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+Linhas demasiado longas
+
+
+
+
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+

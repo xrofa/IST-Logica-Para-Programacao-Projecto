@@ -1,0 +1,1 @@
+exemplo_puzzle(11,P),resolve(P,S),escreve_puzzle(S).

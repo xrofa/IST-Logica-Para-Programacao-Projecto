@@ -11,6 +11,7 @@ Enunciado: projecto.pdf<br />
 Código Realizado: projecto.pl<br />
 Código de Suporte Disponibilizados Pelo Corpo Docente: SUDOKU.pl, exemplos.pl<br />
 Testes Publicos Incluidos<br />
+Pasta Pacote_Projecto: Notas da Execução do projecto e pacote de testes total
 
 ## Autor:
 [Christian Sousa](https://github.com/xrofa)

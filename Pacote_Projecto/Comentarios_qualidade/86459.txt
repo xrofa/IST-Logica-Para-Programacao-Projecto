@@ -1,0 +1,47 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+predicado so_aparece_uma_vez  e seus auxiliares desnecessariamente complicados
+
+
+
+
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+
+
+
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+

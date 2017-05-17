@@ -1,0 +1,2 @@
+exemplo_puzzle(1,P),\+solucao(P),writeln('false').
+exemplo_puzzle(6,P),solucao(P),writeln('true').

@@ -1,0 +1,1 @@
+exemplo_puzzle(3,P1),inicializa(P1,P2),escreve_puzzle(P2).

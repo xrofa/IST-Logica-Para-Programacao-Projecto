@@ -1,0 +1,47 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+predicado possibilidades e seus auxiliares desnecessariamente complicados
+
+
+
+
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+Linhas demasiado longas
+
+
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+Em demasia
+
+
+
+
+
+
+

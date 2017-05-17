@@ -1,0 +1,3 @@
+exemplo_puzzle(1,P1),tira_num_aux(2,P1,(1,1),P2),escreve_puzzle(P2).
+exemplo_puzzle(1,P1),tira_num_aux(5,P1,(1,1),P2),escreve_puzzle(P2).
+exemplo_puzzle(1,P1),tira_num_aux(6,P1,(9,1),P2),escreve_puzzle(P2).

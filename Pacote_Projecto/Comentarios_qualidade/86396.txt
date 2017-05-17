@@ -1,0 +1,55 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+predicado tira_num_aux desnecessariamente complicado
+
+
+
+predicado possibilidades desnecessariamente complicado
+
+
+
+predicado possibilidades desnecessariamente complicado
+
+
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+Linhas demasiado longas
+
+
+
+
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+

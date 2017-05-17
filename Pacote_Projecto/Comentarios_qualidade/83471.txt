@@ -1,0 +1,51 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+
+
+
+
+
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+
+
+tira_num_aux(Num,Puz,Pos,N_Puz):-puzzle_ref(Puz,Pos,Cont),ret_num(Cont,Num,Res),
+
+puzzle_muda(Puz, Pos, Res, N_Puz),!.
+
+…
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+

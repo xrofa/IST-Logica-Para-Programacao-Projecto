@@ -1,0 +1,51 @@
+Abstracção (máx. 1.5 val.)
+
+
+
+predicados desnecessários: equal_lists, not_member, first_element
+
+
+
+predicado tira_num_aux desnecessariamente complicado
+
+
+
+predicado possibilidades e seus auxiliares desnecessariamente complicados
+
+
+
+Nomes (máx. 1.0 val.)
+
+
+
+
+
+
+
+
+
+
+Paragrafação (máx. 0.5 val.)
+
+
+
+
+
+
+
+
+
+
+
+Comentários (máx. 1.0 val.)
+
+
+
+Insuficientes
+
+
+
+
+
+
+
